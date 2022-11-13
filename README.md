@@ -1,5 +1,6 @@
 # EfficientNet-Signal-Vehicle-Counting
 **Task**
+
 The task was to take in a single image and output two numbers: 
 
 a) the number of signals in the image (traffic lights and stop signs count as signals)
